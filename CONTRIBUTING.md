@@ -9,7 +9,7 @@
 ## Local Environment Setup
 Follow these steps to set up the **Smart Refrigerator Management System (SRMS)** for local development:  
 
-### 1️⃣ Prerequisites  
+### Prerequisites  
 Ensure you have the following installed:  
 - **Python 3.9+**  
 - **Node.js 16+**
@@ -18,12 +18,12 @@ Ensure you have the following installed:
 - **Git**  
 - etc...
 
-### 2️⃣ Clone the Repository  
+### Clone the Repository  
 ```sh
 git clone https://github.com/agiledev-students-spring2025/4-final-smart-refrigerator-management-system
 ```
 
-### 3️⃣ Setups
+### Setups
 **1. Create a virtual environment**
 ```sh
 python -m venv venv
