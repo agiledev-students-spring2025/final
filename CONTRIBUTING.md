@@ -6,7 +6,7 @@
 
 ## Rules of contributing
 
-## Local development enviroment setup
+## Local Environment Setup
 Follow these steps to set up the **Smart Refrigerator Management System (SRMS)** for local development:  
 
 ### 1️⃣ Prerequisites  
@@ -49,14 +49,13 @@ cd front-end
 npm install
 npm start
 ```
-### 4️⃣ Run tests
+## Testing
 ```sh
 pytest
 npm test
 ```
-### 5️⃣ Access the app
+## API Access
 - Backend API:
 - Frontend API:
-For addtional configuration details, see [CONTRIBUTING.md](https://github.com/agiledev-students-spring2025/4-final-smart-refrigerator-management-system/blob/master/CONTRIBUTING.md)
 
-## Building & testing instructions
+For addtional configuration details, see [CONTRIBUTING.md](https://github.com/agiledev-students-spring2025/4-final-smart-refrigerator-management-system/blob/master/CONTRIBUTING.md)
