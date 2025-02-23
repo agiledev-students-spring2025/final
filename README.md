@@ -1,4 +1,26 @@
-# Project Repository
+# WNYU Data Management Project
+
+## Project Description
+An internal data management platform for [WNYU](https://wnyu.org/), the campus radio station for New York University. 
+
+## Product Vision Statement
+
+
+## Team Members
+- [Melanie Zhang](https://github.com/melanie-y-zhang)
+- [Madison Phung](https://github.com/mkphung29)
+- [Sam Rawdon](https://github.com/SamRawdon)
+- [Matthew Ortega](https://github.com/bruhcolate)
+
+## History
+
+
+[How to Contribute](https://github.com/agiledev-students-spring2025/4-final-wnyu-data-management-development/blob/master/CONTRIBUTING.md)
+
+## Instructions for Building and Testing
+To be added.
+
+## Other Links
 
 This repository will be used for team projects.
 
