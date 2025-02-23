@@ -1,7 +1,8 @@
 # Smart Refrigerator Management System (SRMS)
 
 ## Product Vision Statement
-Product Owner drafts this
+Product Owner drafts this- 
+
 instructions: https://knowledge.kitchen/content/courses/agile-development-and-devops/scrum/product-vision-statement/
 
 ## Team Members
