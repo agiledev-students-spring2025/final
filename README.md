@@ -1,4 +1,9 @@
-# Project Repository
+# Project Repository for Flipped 1 Team
+## Team Members:
+Xinwei Xie(xx2185)
+Feiluan Feng(ff2171)
+XXX XX(XX1111)
+
 
 This repository will be used for team projects.
 
