@@ -6,7 +6,7 @@ HydroForest is a web app designed to help users track their daily water intake w
 ## Product Vision Statement  
 **HydroForest transforms the habit of drinking water into an engaging and rewarding experience by allowing users to grow a virtual forest as they stay hydrated.**  
 
-## 👥 Team Members  
+## Team Members  
 - **[Jun Li](https://github.com/jljune9li)**  
 - **[Natalie Ovcarov](https://github.com/nataliovcharov)**  
 - **[Daniel Brito](https://github.com/danny031103)**
