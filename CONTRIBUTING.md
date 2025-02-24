@@ -62,4 +62,8 @@ We follow a structured Git workflow to maintain code quality and organization.
 - Address any feedback or requested changes on your PR in a timely manner.
 - Contact the project founders if you have any questions or need guidance.
 
+## Setting Up The Local Development Environment
+- Download VS code
+- Clone the git repo
+
 We hope you enjoy working on Hydroforest and welcome any and all contributors!
