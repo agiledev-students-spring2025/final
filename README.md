@@ -1,12 +1,21 @@
 # Smart Refrigerator Management System (SRMS)
 
 ## Product Vision Statement
-Product Owner drafts this- 
+Product Owner - Jin Lee
 
-instructions: https://knowledge.kitchen/content/courses/agile-development-and-devops/scrum/product-vision-statement/
+Our product vision: Making fridge management smarter—so you waste less, save more, and eat better.
+
+We strive for collaborative fridge management with the user and the system. 
+### Themes
+- Optimizing space and food category: managing important details (ex. expiration date) without altering allocation of foods in fridge
+- Recipie suggestions: suggesting possible recipies before throwing items away 
+- Inventory analysis: reducing common failures and encouraging healthy roation in diet
 
 ## Team Members
 [Veronica Zhao](https://github.com/verozhao)
+[Jin Lee](https://github.com/GiveChoco)
+[Chelsea Hodgson](https://github.com/Chelsea-Hodgson)
+[Sherry Liu](https://github.com/SherryKu)
 
 ## Project Overview
 The Smart Refrigerator Management System (SRMS) is to tackle the issue of food waste caused by poor refrigerator management. With households wasting up to 40% of their food, SRMS aims to provide an intuitive solution for tracking food inventory, monitoring expiration dates, and offering smart storage recommendations tailored to different refrigerator models. The project has grown with contributions from students, researchers, and developers passionate about food sustainability and smart home technology.
