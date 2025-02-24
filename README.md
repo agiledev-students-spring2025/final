@@ -28,7 +28,7 @@ Feiluan Feng(ff2171)
 
 Chuqiao Huang(ch3807)
 
-larisajz()
+Larisa Li(rl4737)
 
 
 ## **How? - Main Features**  
