@@ -67,3 +67,4 @@ We follow a structured Git workflow to maintain code quality and organization.
 - Clone the git repo
 
 We hope you enjoy working on Hydroforest and welcome any and all contributors!
+

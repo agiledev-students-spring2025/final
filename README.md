@@ -10,6 +10,7 @@ HydroForest is a web app designed to help users track their daily water intake w
 - **[Natalie Ovcarov](https://github.com/nataliovcharov)**  
 - **[Daniel Brito](https://github.com/danny031103)**
 - **[Nabiha Siddique](https://github.com/ns5190)**
+- **[Alvaro Martinez](https://github.com/AlvaroMartinezM)**
 
 ## How It Works  
 From an end-user perspective, HydroForest will:  
