@@ -1,19 +1,31 @@
-# Project Repository
+# 🌱 HydroForest   
 
-This repository will be used for team projects.
+## Project Overview  
+HydroForest is a web app designed to help users track their daily water intake while making hydration a fun and rewarding experience. Every time a user logs a bottle of water, a virtual tree grows in their digital forest. Over time, consistent hydration leads to a thriving forest, encouraging users to build healthy habits through gamification.  
 
-Several sets of instructions are included in this repository. They should each be treated as separate assignments with their own due dates and sets of requirements.
+## Product Vision Statement  
+**HydroForest transforms the habit of drinking water into an engaging and rewarding experience by allowing users to grow a virtual forest as they stay hydrated.**  
 
-1. See the [App Map & Wireframes](instructions-0a-app-map-wireframes.md) and [Prototyping](./instructions-0b-prototyping.md) instructions for the requirements of the initial user experience design of the app.
+## 👥 Team Members  
+- **[Jun Li](https://github.com/jljune9li)**  
+- **[Natalie Ovcarov](https://github.com/nataliovcharov)**  
+- **[Daniel Brito](https://github.com/danny031103)**
+- **[Nabiha Siddique](https://github.com/ns5190)**
 
-1. Delete the contents of this file and replace with the contents of a proper README.md, as described in the [project setup instructions](./instructions-0c-project-setup.md)
+## How It Works  
+From an end-user perspective, HydroForest will:  
+✔️ Allow users to log their daily water intake (e.g., one bottle = tree growth).  
+✔️ Visually represent progress through a growing virtual forest.  
+✔️ Track historical hydration data to show trends over time.  
+✔️ Gamify the experience with forest customization.  
+✔️ Send reminders and notifications to encourage hydration.  
 
-1. See the [Sprint Planning instructions](instructions-0d-sprint-planning.md) for the requirements of Sprint Planning for each Sprint.
+## Project History  
+HydroForest was conceived as a Software Engineering course project, inspired by the challenge of maintaining consistent hydration habits. Recognizing that many people struggle with drinking enough water daily, our team wanted to create a fun and engaging solution that makes hydration more rewarding. 
 
-1. See the [Front-End Development instructions](./instructions-1-front-end.md) for the requirements of the initial Front-End Development.
+The idea started as a brainstorming session among our team members, where we explored ways to encourage positive behavior through digital incentives. We decided on a virtual forest concept, where trees grow as users log their water intake!
 
-1. See the [Back-End Development instructions](./instructions-2-back-end.md) for the requirements of the initial Back-End Development.
+Our team follows an **Agile approach**, focusing on building core functionality first and iterating over time to ensure an engaging and polished product by the semester’s end.  
 
-1. See the [Database Integration instructions](./instructions-3-database.md) for the requirements of integrating a database into the back-end.
-
-1. See the [Deployment instructions](./instructions-4-deployment.md) for the requirements of deploying an app.
+## How to Contribute  
+Interested in contributing? Check out our [CONTRIBUTING.md](https://github.com/hydroforest/contributing.md) for guidelines on how to get involved.  
