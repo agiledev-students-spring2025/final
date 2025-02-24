@@ -11,6 +11,7 @@ An internal data management platform for [WNYU](https://wnyu.org/), the campus r
 - [Madison Phung](https://github.com/mkphung29)
 - [Sam Rawdon](https://github.com/SamRawdon)
 - [Matthew Ortega](https://github.com/bruhcolate)
+- [Kevin Chan](https://github.com/naruminato1)
 
 ## History
 
