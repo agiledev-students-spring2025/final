@@ -11,15 +11,15 @@ Emily Yang - [xSeaGato](https://github.com/xSeaGato)<br/>
 Brad Huang - [kaiserarg](https://github.com/kaiserarg)<br/>
 Sophia Domonoske - [swdomo](https://github.com/swdomo)<br/>
 Abby Ibarra - [abbyibarra](https://github.com/abbyibarra)<br/>
-Yinqi Wang - ?<br/>
+Yinqi Wang - [Yinqi596](https://github.com/Yinqi596)<br/>
 
 ## History
 N/A
 
 ## Instructions for Building and Testing
-To work on this project, please follow the contribution guidelines.
+To work on this project, please follow the [contributing guidelines](./instructions-4-deployment.md) guidelines.
 
-Work on the code by forking and makeing a local clone.
+Todo: Building Instructions
 
 ## Other Links, Sprints, and Due Dates
 Several sets of instructions are included in this repository. They should each be treated as separate assignments with their own due dates and sets of requirements.
