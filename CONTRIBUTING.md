@@ -3,6 +3,11 @@
 ## Team Norms
 
 ## Git workflow that the team follows
+We follow the feature branch workflow.
+
+To add a new feature to the existing app, first create a new branch with new feature on local computer. Then change the code within that branch on local computer. Once finished, push your local repository's feature branch into the remote repository's feature branch. After that, issue a push request to merge the feature branch into main branch. Once the push request is approved, the feature will be added to the current version of the app.
+
+We follow the standard Javascript code conventions. We use ESLint linter and Prettier code formatter to help standardize our code.
 
 ## Rules of contributing
 
