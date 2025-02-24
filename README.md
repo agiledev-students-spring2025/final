@@ -16,6 +16,7 @@ We strive for collaborative fridge management with the user and the system.
 [Jin Lee](https://github.com/GiveChoco)
 [Chelsea Hodgson](https://github.com/Chelsea-Hodgson)
 [Sherry Liu](https://github.com/SherryKu)
+[Sajidur Rahman](https://github.com/SajidRahman310)
 
 
 ## Project Overview
