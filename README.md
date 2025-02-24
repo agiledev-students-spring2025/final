@@ -1,10 +1,9 @@
 # WNYU Data Management Project
-
 ## Project Description
-An internal data management platform for [WNYU](https://wnyu.org/), the campus radio station for New York University. 
+An internal data management platform for [WNYU](https://wnyu.org/), the campus radio station for New York University. The platform will digitalize and centralize decades of data for WNYU, from personnel lists, tens of thousands of media, documents, archives, and more. While available to everyone, users will have different levels of access, from admin to regular staff to everyday users.
 
 ## Product Vision Statement
-
+The WNYU Data Management Platform empowers its users to store and modify data for the campus radio station easily and efficiently, creating a library of records, past events, personnel, and much more that is accessible to everyone.
 
 ## Team Members
 - [Melanie Zhang](https://github.com/melanie-y-zhang)
@@ -13,7 +12,7 @@ An internal data management platform for [WNYU](https://wnyu.org/), the campus r
 - [Matthew Ortega](https://github.com/bruhcolate)
 
 ## History
-
+The current General Manager of WNYU, also the founding member of our team, realized that the station lacks a centralized way to organize its information. The station maintains decades of data without a way to digitally log, update, and access their library. This project provided the perfect opportunity to develop a solution to this problem and as such, the WNYU Data Management Platform was born.
 
 [How to Contribute](https://github.com/agiledev-students-spring2025/4-final-wnyu-data-management-development/blob/master/CONTRIBUTING.md)
 
@@ -21,21 +20,4 @@ An internal data management platform for [WNYU](https://wnyu.org/), the campus r
 To be added.
 
 ## Other Links
-
-This repository will be used for team projects.
-
-Several sets of instructions are included in this repository. They should each be treated as separate assignments with their own due dates and sets of requirements.
-
-1. See the [App Map & Wireframes](instructions-0a-app-map-wireframes.md) and [Prototyping](./instructions-0b-prototyping.md) instructions for the requirements of the initial user experience design of the app.
-
-1. Delete the contents of this file and replace with the contents of a proper README.md, as described in the [project setup instructions](./instructions-0c-project-setup.md)
-
-1. See the [Sprint Planning instructions](instructions-0d-sprint-planning.md) for the requirements of Sprint Planning for each Sprint.
-
-1. See the [Front-End Development instructions](./instructions-1-front-end.md) for the requirements of the initial Front-End Development.
-
-1. See the [Back-End Development instructions](./instructions-2-back-end.md) for the requirements of the initial Back-End Development.
-
-1. See the [Database Integration instructions](./instructions-3-database.md) for the requirements of integrating a database into the back-end.
-
-1. See the [Deployment instructions](./instructions-4-deployment.md) for the requirements of deploying an app.
+To be added.
