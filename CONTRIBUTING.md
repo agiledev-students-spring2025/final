@@ -39,3 +39,4 @@ We follow a structured Git workflow to maintain code quality and organization.
 - Contact the project founders if you have any questions or need guidance.
 
 We hope you enjoy working on Hydroforest and welcome any and all contributors!
+
