@@ -1,5 +1,4 @@
 # HydroForest   
-
 ## Project Overview  
 HydroForest is a web app designed to help users track their daily water intake while making hydration a fun and rewarding experience. Every time a user logs a bottle of water, a virtual tree grows in their digital forest. Over time, consistent hydration leads to a thriving forest, encouraging users to build healthy habits through gamification.  
 
@@ -21,7 +20,7 @@ From an end-user perspective, HydroForest will:
 -  Send reminders and notifications to encourage hydration.  
 
 ## Project History  
-HydroForest was conceived as a Software Engineering course project, inspired by the challenge of maintaining consistent hydration habits. Recognizing that many people struggle with drinking enough water daily, our team wanted to create a fun and engaging solution that makes hydration more rewarding. 
+HydroForest was conceived as a Agile Software Development & DevOps course project, inspired by the challenge of maintaining consistent hydration habits. Recognizing that many people struggle with drinking enough water daily, our team wanted to create a fun and engaging solution that makes hydration more rewarding. 
 
 The idea started as a brainstorming session among our team members, where we explored ways to encourage positive behavior through digital incentives. We decided on a virtual forest concept, where trees grow as users log their water intake!
 
