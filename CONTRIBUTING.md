@@ -62,5 +62,3 @@ npm test
 ## API Access
 - Backend API:
 - Frontend API:
-
-For addtional configuration details, see [CONTRIBUTING.md](https://github.com/agiledev-students-spring2025/4-final-smart-refrigerator-management-system/blob/master/CONTRIBUTING.md)
