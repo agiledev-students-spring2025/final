@@ -47,7 +47,7 @@ We follow a structured Git workflow to maintain code quality and organization.
 5. **Push your changes**
     ```sh
     git push origin feature-name
-6. Create a Pull Request.
+6. **Create a Pull Request.**
 
 
 ## Rules for Contributing
