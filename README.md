@@ -1,7 +1,27 @@
-# Project Repository
+# Memory Map Project
 
-This repository will be used for team projects.
+## Project Description
+Create a web application that allows users to map their favorite memories by pinning locations with images, captions, and audio messages. Users can follow their friends to see their favorite memory locations.
 
+## Project Vision Statement
+
+
+## Team Members
+Emily Yang - [xSeaGato](https://github.com/xSeaGato)<br/>
+Brad Huang - [kaiserarg](https://github.com/kaiserarg)<br/>
+Sophia Domonoske - [swdomo](https://github.com/swdomo)<br/>
+Abby Ibarra - [abbyibarra](https://github.com/abbyibarra)<br/>
+Yinqi Wang - ?<br/>
+
+## History
+N/A
+
+## Instructions for Building and Testing
+To work on this project, please follow the contribution guidelines.
+
+Work on the code by forking and makeing a local clone.
+
+## Other Links, Sprints, and Due Dates
 Several sets of instructions are included in this repository. They should each be treated as separate assignments with their own due dates and sets of requirements.
 
 1. See the [App Map & Wireframes](instructions-0a-app-map-wireframes.md) and [Prototyping](./instructions-0b-prototyping.md) instructions for the requirements of the initial user experience design of the app.
