@@ -1,19 +1,39 @@
-# Project Repository
+# Smart Refrigerator Management System (SRMS)
 
-This repository will be used for team projects.
+## Product Vision Statement
+Product Owner - Jin Lee
 
-Several sets of instructions are included in this repository. They should each be treated as separate assignments with their own due dates and sets of requirements.
+Our product vision: Making fridge management smarter—so you waste less, save more, and eat better.
 
-1. See the [App Map & Wireframes](instructions-0a-app-map-wireframes.md) and [Prototyping](./instructions-0b-prototyping.md) instructions for the requirements of the initial user experience design of the app.
+We strive for collaborative fridge management with the user and the system. 
+### Themes
+- Optimizing space and food category: managing important details (ex. expiration date) without altering allocation of foods in fridge
+- Recipie suggestions: suggesting possible recipies before throwing items away 
+- Inventory analysis: reducing common failures and encouraging healthy roation in diet
 
-1. Delete the contents of this file and replace with the contents of a proper README.md, as described in the [project setup instructions](./instructions-0c-project-setup.md)
+## Team Members
+[Veronica Zhao](https://github.com/verozhao)
+[Jin Lee](https://github.com/GiveChoco)
+[Sajidur Rahman](https://github.com/SajidRahman310)
 
-1. See the [Sprint Planning instructions](instructions-0d-sprint-planning.md) for the requirements of Sprint Planning for each Sprint.
 
-1. See the [Front-End Development instructions](./instructions-1-front-end.md) for the requirements of the initial Front-End Development.
+## Project Overview
+The Smart Refrigerator Management System (SRMS) is to tackle the issue of food waste caused by poor refrigerator management. With households wasting up to 40% of their food, SRMS aims to provide an intuitive solution for tracking food inventory, monitoring expiration dates, and offering smart storage recommendations tailored to different refrigerator models. The project has grown with contributions from students, researchers, and developers passionate about food sustainability and smart home technology.
 
-1. See the [Back-End Development instructions](./instructions-2-back-end.md) for the requirements of the initial Back-End Development.
+## How to Contribute
+We welcome contributions from developers, designers, and food sustainability advocates! To get started:
+- Review our [CONTRIBUTING.md](https://github.com/agiledev-students-spring2025/4-final-smart-refrigerator-management-system/blob/master/CONTRIBUTING.md) for guidelines on coding standards, issue reporting, and feature requests.
+- Check open issues on our GitHub repository and comment on those you're interested in.
+- Submit pull requests with well-documented code and commit messages.
 
-1. See the [Database Integration instructions](./instructions-3-database.md) for the requirements of integrating a database into the back-end.
+## Building & Testing Instructions
+(This section will be updated once the project reaches the development phase.)
+Once development is underway, we will provide:
+- Step-by-step setup instructions for running the project locally.
+- Testing guidelines to ensure functionality and performance meet project standards.
 
-1. See the [Deployment instructions](./instructions-4-deployment.md) for the requirements of deploying an app.
+## Additional Resources
+- [Project Proposal](https://github.com/agiledev-students-spring2025/4-final-smart-refrigerator-management-system/blob/master/PROPOSAL.md) – In-depth explanation of SRMS goals, features, and target users.
+
+## Stay Updated
+Follow us on GitHub for the latest updates. 🚀
