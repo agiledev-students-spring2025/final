@@ -28,4 +28,4 @@ The idea started as a brainstorming session among our team members, where we exp
 Our team follows an **Agile approach**, focusing on building core functionality first and iterating over time to ensure an engaging and polished product by the semester’s end.  
 
 ## How to Contribute  
-Interested in contributing? Check out our [CONTRIBUTING.md](https://github.com/hydroforest/contributing.md) for guidelines on how to get involved.  
+Interested in contributing? Check out our [CONTRIBUTING.md](https://github.com/agiledev-students-spring2025/4-final-hydroforest/blob/master/CONTRIBUTING.md) for guidelines on how to get involved.  
