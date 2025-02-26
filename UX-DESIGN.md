@@ -32,12 +32,12 @@ Below is a structured representation of the app's navigation flow:
 ## Wireframe Screens
 
 ### 1. Login Page
-**Purpose:** Allows users to log in using their username and password. Also includes an option to reset a forgotten password.
+**Purpose:** Users can log in to existing accounts, reset their password, or make an account.
 
 ![Login Page](images/Login%20Page.png)
 
 ### 2. Registration Page
-**Purpose:** Enables new users to create an account by providing their details, including first name, last name, email, username, and password.
+**Purpose:** Enables new users to create an account by providing their details, including first name, last name, email, username, and password. If they need help, there is a link to a help guide.
 
 ![Registration Page](images/Registration%20Page.png)
 
@@ -57,7 +57,8 @@ Below is a structured representation of the app's navigation flow:
 ![Home Page](images/Home%20Page-2.png)
 
 ### 6. Forest Page
-**Purpose:** Displays a visual representation of the user's progress with their tree.
+**Purpose:** Displays a visual representation of the user's progress with their tree. There is a “Change Tree” button that changes the image of the tree according to user preferences.
+
 
 ![Forest Page](images/Forest-2.png)
 
