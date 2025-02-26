@@ -1,8 +1,8 @@
 # User Experience Design
-## Prototype
+## Prototype Link
 [Figma Prototype](https://www.figma.com/design/w75dJualN3GRN736hTw8Jw/Flipped-1?node-id=0-1&p=f&t=LXYn7RDy2oyUTvXP-0)
 ## App Map
-![alt text](images/Flipped1-AppMap.png)
+![alt text](ux-design/Flipped1-AppMap.png)
 
 ## Wireframe Diagrams
 
