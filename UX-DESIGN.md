@@ -17,7 +17,19 @@ Following is the link to our Figma prototype. Please click on the blank space to
 - [wireframe (Local Figma file)](ux-design/wireframes/Smart-Refridgerator.fig)
 <br>Please be mindful that figma file will be updated ocassionaly - please check the web version for most recent version
 
+#### main page
 | Screen Name | Wireframe | Description |
 |------------|-----------|-------------|
 | **Home Screen** | <img src="ux-design/wireframes/Homepage.png" width="300"> | The main dashboard displaying key refrigerator stats, recommendation, and quick actions. |
 
+
+#### Settings & Profile
+| Screen Name | Wireframe | Description |
+|------------|-----------|-------------|
+| **Settings and Profile** | <img src="ux-design/wireframes/Settings-Profile/Settings & Profile.png" width="300"> | The main dashboard displaying navigation buttons. |
+| **Account Settings** | <img src="ux-design/wireframes/Settings-Profile/Account Settings.png" width="300"> | Important account setup including profile, password, and data consent |
+| **Refrigerator Model Setup** | <img src="ux-design/wireframes/Settings-Profile/Refrigerator Model Setup.png" width="300"> | Dashboard for configuring fridge model for optimal app usage |
+| **Notification Setup** | <img src="ux-design/wireframes/Settings-Profile/Notification Settings.png" width="300"> | Preference for notification on various features |
+| **Dietary Preference** | <img src="ux-design/wireframes/Settings-Profile/Dietary Preferences.png" width="300"> | Important dietary restrictions / preference setting |
+| **Help and Support** | <img src="ux-design/wireframes/Settings-Profile/Help & Support.png" width="300"> | general help and contact area for frequently asked questions |
+| **Change Password** | <img src="ux-design/wireframes/Settings-Profile/Change Password Dialog.png" width="300"> | Secure page to change password of account |
