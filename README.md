@@ -14,12 +14,11 @@ Abby Ibarra - [abbyibarra](https://github.com/abbyibarra)<br/>
 Yinqi Wang - [Yinqi596](https://github.com/Yinqi596)<br/>
 
 ## History
-N/A
+As a team, we have collaborated to create a wireframe to give a general idea of how our project will be for users. 
 
 ## Instructions for Building and Testing
-To work on this project, please follow the [contributing guidelines](./instructions-4-deployment.md) guidelines.
-
-Todo: Building Instructions
+`Todo`: To work on this project, please follow the [contributing guidelines](./instructions-4-deployment.md) guidelines.<br/>
+`Todo`: Testing
 
 ## Other Links, Sprints, and Due Dates
 Several sets of instructions are included in this repository. They should each be treated as separate assignments with their own due dates and sets of requirements.
