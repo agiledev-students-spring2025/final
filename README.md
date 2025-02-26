@@ -12,10 +12,12 @@ We strive for collaborative fridge management with the user and the system.
 - Inventory analysis: reducing common failures and encouraging healthy roation in diet
 
 ## Team Members
-[Veronica Zhao](https://github.com/verozhao)
-[Jin Lee](https://github.com/GiveChoco)
-[Chelsea Hodgson](https://github.com/Chelsea-Hodgson)
-[Sherry Liu](https://github.com/SherryKu)
+[Veronica Zhao](https://github.com/verozhao)<br>
+[Jin Lee](https://github.com/GiveChoco)<br>
+[Chelsea Hodgson](https://github.com/Chelsea-Hodgson)<br>
+[Sherry Liu](https://github.com/SherryKu)<br>
+[Sajidur Rahman](https://github.com/SajidRahman310)
+
 
 ## Project Overview
 The Smart Refrigerator Management System (SRMS) is to tackle the issue of food waste caused by poor refrigerator management. With households wasting up to 40% of their food, SRMS aims to provide an intuitive solution for tracking food inventory, monitoring expiration dates, and offering smart storage recommendations tailored to different refrigerator models. The project has grown with contributions from students, researchers, and developers passionate about food sustainability and smart home technology.
