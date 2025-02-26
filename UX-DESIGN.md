@@ -17,7 +17,6 @@ Following is the link to our Figma prototype. Please click on the blank space to
 - [wireframe (Local Figma file)](ux-design/wireframes/Smart-Refridgerator.fig)
 <br>Please be mindful that figma file will be updated ocassionaly - please check the web version for most recent version
 
-#### main page
 | Screen Name | Wireframe | Description |
 |------------|-----------|-------------|
 | **Home Screen** | <img src="ux-design/wireframes/Homepage.png" width="300"> | The main dashboard displaying key refrigerator stats, recommendation, and quick actions. |
