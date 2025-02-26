@@ -1,8 +1,11 @@
 # User Experience Design
 
-This repository contains instructions and files for two assignments that together comprise the user experience design phase of a web app.
+## Prototype
+[Link to Prototype](https://www.figma.com/design/TntimH8CudoRaO8YRiXZvI/Prototype?node-id=0-1&t=poCESymx1Xa4gAH6-1)
 
-Replace the contents of this file with the completed assignments, as described in:
+## Wireframes
 
-- [app map & wireframe instructions](instructions-0a-app-map-wireframes.md).
-- [prototype instructions](instructions-0b-prototyping.md)
+
+## App Map
+![Image](ux-design/app-map.png)
+
