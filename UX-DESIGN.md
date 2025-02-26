@@ -23,4 +23,3 @@ Following is the link to our Figma prototype. Please click on the blank space to
 | **Inventory Management** | <img src="ux-design/wireframes/Inventory Management.png" width="300> | The page that directs you to all refrigerator compartments and inventory management.               |
 | **Item Details**         | <img src="ux-design/wireframes/Item Details.png" width="300>         | The page that displays all the details for a selected item, and allows modifications and deletion. |
 | **Scan Items**           | <img src="ux-design/wireframes/Scan Items.png" width="300>           | The page that allows the user to add and scan new items to store in refrigerator inventory.        |
-
