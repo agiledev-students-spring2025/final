@@ -1,6 +1,10 @@
 # User Experience Design
-[App Map](https://www.figma.com/board/agOKIslrLVfGMKwckI14gl/Flipped1-App-Map?node-id=0-1&p=f&t=V6rowl0Hvn9ndKYR-0)
+## Prototype
+[Figma Prototype](https://www.figma.com/design/w75dJualN3GRN736hTw8Jw/Flipped-1?node-id=0-1&p=f&t=LXYn7RDy2oyUTvXP-0)
+## App Map
 ![alt text](images/Flipped1-AppMap.png)
+
+## Wireframe Diagrams
 
 This repository contains instructions and files for two assignments that together comprise the user experience design phase of a web app.
 
