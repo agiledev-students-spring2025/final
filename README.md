@@ -4,7 +4,7 @@
 Create a web application that allows users to map their favorite memories by pinning locations with images, captions, and audio messages. Users can follow their friends to see their favorite memory locations.
 
 ## Project Vision Statement
-
+`Todo`: Have project manager add PVS statement
 
 ## Team Members
 Emily Yang - [xSeaGato](https://github.com/xSeaGato)<br/>
