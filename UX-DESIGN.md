@@ -23,11 +23,11 @@ Following is the link to our Figma prototype. Please click on the blank space to
 
 #### Inventory and Item Modifications
 
-| Screen Name          | Wireframe | Description |
-|----------------------|-----------|-------------|
-| Inventory Management |![Inventory Mangement.png](ux-design%2Fwireframes%2FInventory%20Mangement%2FInventory%20Mangement.png)|The page that directs you to all refrigerator compartments and inventory management.|
-| Item Details         |![Item Details.png](ux-design%2Fwireframes%2FInventory%20Mangement%2FItem%20Details.png)|The page that displays all the details for a selected item and allows modifications and deletion.|
-| Scan Items           |![Scan Items.png](ux-design%2Fwireframes%2FInventory%20Mangement%2FScan%20Items.png)|The page that allows the user to add and scan new items to store in refrigerator inventory.|
+| Screen Name          | Wireframe                                                                    | Description |
+|----------------------|------------------------------------------------------------------------------|-------------|
+| Inventory Management | <img src="ux-design/wireframes/Inventory-Mangement/Inventory Mangement.png"> |The page that directs you to all refrigerator compartments and inventory management.|
+| Item Details         | <img src="ux-design/wireframes/Inventory-Mangement/Item Details.png">                                                                 |The page that displays all the details for a selected item and allows modifications and deletion.|
+| Scan Items           | <img src="ux-design/wireframes/Inventory-Mangement/Scan Items.png">                                                                            |The page that allows the user to add and scan new items to store in refrigerator inventory.|
 
 
 #### Settings & Profile
