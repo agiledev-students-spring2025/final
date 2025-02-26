@@ -12,10 +12,10 @@ We strive for collaborative fridge management with the user and the system.
 - Inventory analysis: reducing common failures and encouraging healthy roation in diet
 
 ## Team Members
-[Veronica Zhao](https://github.com/verozhao)
-[Jin Lee](https://github.com/GiveChoco)
-[Chelsea Hodgson](https://github.com/Chelsea-Hodgson)
-[Sherry Liu](https://github.com/SherryKu)
+[Veronica Zhao](https://github.com/verozhao)<br>
+[Jin Lee](https://github.com/GiveChoco)<br>
+[Chelsea Hodgson](https://github.com/Chelsea-Hodgson)<br>
+[Sherry Liu](https://github.com/SherryKu)<br>
 [Sajidur Rahman](https://github.com/SajidRahman310)
 
 
