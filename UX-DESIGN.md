@@ -38,7 +38,7 @@ Following is the link to our Figma prototype. Please click on the blank space to
 | **Refrigerator Model Setup** | <img src="ux-design/wireframes/Settings-Profile/Refrigerator Model Setup.png" width="300"> | Dashboard for configuring fridge model for optimal app usage |
 | **Notification Setup** | <img src="ux-design/wireframes/Settings-Profile/Notification Settings.png" width="300"> | Preference for notification on various features |
 | **Dietary Preference** | <img src="ux-design/wireframes/Settings-Profile/Dietary Preferences.png" width="300"> | Important dietary restrictions / preference setting |
-| **Help and Support** | <img src="ux-design/wireframes/Settings-Profile/Help & Support.png" width="300"> | general help and contact area for frequently asked questions |
+| **Help and Support** | <img src="ux-design/wireframes/Settings-Profile/Help & Support.png" width="300"> | General help and contact area for frequently asked questions |
 | **Change Password** | <img src="ux-design/wireframes/Settings-Profile/Change Password Dialog.png" width="300"> | Secure page to change password of account |
 
 ### Login & Signup
