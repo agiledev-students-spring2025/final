@@ -17,10 +17,17 @@ Following is the link to our Figma prototype. Please click on the blank space to
 - [wireframe (Local Figma file)](ux-design/wireframes/Smart-Refridgerator.fig)
 <br>Please be mindful that figma file will be updated ocassionaly - please check the web version for most recent version
 
-#### main page
 | Screen Name | Wireframe | Description |
 |------------|-----------|-------------|
 | **Home Screen** | <img src="ux-design/wireframes/Homepage.png" width="300"> | The main dashboard displaying key refrigerator stats, recommendation, and quick actions. |
+
+#### Inventory and Item Modifications
+
+| Screen Name          | Wireframe                                                                    | Description |
+|----------------------|------------------------------------------------------------------------------|-------------|
+| Inventory Management | <img src="ux-design/wireframes/Inventory-Mangement/Inventory Mangement.png"> |The page that directs you to all refrigerator compartments and inventory management.|
+| Item Details         | <img src="ux-design/wireframes/Inventory-Mangement/Item Details.png">                                                                 |The page that displays all the details for a selected item and allows modifications and deletion.|
+| Scan Items           | <img src="ux-design/wireframes/Inventory-Mangement/Scan Items.png">                                                                            |The page that allows the user to add and scan new items to store in refrigerator inventory.|
 
 
 #### Settings & Profile
@@ -31,7 +38,7 @@ Following is the link to our Figma prototype. Please click on the blank space to
 | **Refrigerator Model Setup** | <img src="ux-design/wireframes/Settings-Profile/Refrigerator Model Setup.png" width="300"> | Dashboard for configuring fridge model for optimal app usage |
 | **Notification Setup** | <img src="ux-design/wireframes/Settings-Profile/Notification Settings.png" width="300"> | Preference for notification on various features |
 | **Dietary Preference** | <img src="ux-design/wireframes/Settings-Profile/Dietary Preferences.png" width="300"> | Important dietary restrictions / preference setting |
-| **Help and Support** | <img src="ux-design/wireframes/Settings-Profile/Help & Support.png" width="300"> | general help and contact area for frequently asked questions |
+| **Help and Support** | <img src="ux-design/wireframes/Settings-Profile/Help & Support.png" width="300"> | General help and contact area for frequently asked questions |
 | **Change Password** | <img src="ux-design/wireframes/Settings-Profile/Change Password Dialog.png" width="300"> | Secure page to change password of account |
 
 ### Login & Signup
@@ -43,7 +50,7 @@ Following is the link to our Figma prototype. Please click on the blank space to
 ### Analytics
 | Screen Name | Wireframe | Description |
 |------------|-----------|-------------|
-| **Trend Analysis Page** | <img src="ux-design/wireframes/Trend Analysis.png" width="300"> | Displays the most and least used food items in the fridge, helping users understand consumption patterns and optimize grocery shopping. |
-| **Shopping Recommendation Page** | <img src="ux-design/wireframes/Shopping Recommendation.png" width="300"> | Suggests essential grocery items and replenishment recommendations based on inventory levels and waste patterns, with direct links to online stores. |
-| **Waste Pattern Page** | <img src="ux-design/wireframes/Waste Pattern.png" width="300"> | Tracks food waste over a selected time period, providing insights into the most wasted food categories and estimated financial loss. |
+| **Trend Analysis Page** | <img src="ux-design/wireframes/Fridge-Analytics/Trend Analysis.png" width="300"> | Displays the most and least used food items in the fridge, helping users understand consumption patterns and optimize grocery shopping. |
+| **Shopping Recommendation Page** | <img src="ux-design/wireframes/Fridge-Analytics/Shopping Recommendation.png" width="300"> | Suggests essential grocery items and replenishment recommendations based on inventory levels and waste patterns, with direct links to online stores. |
+| **Waste Pattern Page** | <img src="ux-design/wireframes/Fridge-Analytics/Waste Pattern.png" width="300"> | Tracks food waste over a selected time period, providing insights into the most wasted food categories and estimated financial loss. |
 

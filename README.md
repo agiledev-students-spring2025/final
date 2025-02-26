@@ -1,7 +1,9 @@
 # Smart Refrigerator Management System (SRMS)
 
 ## Product Vision Statement
-Product Owner - Jin Lee
+**Product Owner** - Jin Lee
+
+**Scrum Master** - Veronica Zhao
 
 Our product vision: Making fridge management smarter—so you waste less, save more, and eat better.
 
