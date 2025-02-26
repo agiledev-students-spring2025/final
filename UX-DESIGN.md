@@ -32,3 +32,17 @@ Following is the link to our Figma prototype. Please click on the blank space to
 | **Dietary Preference** | <img src="ux-design/wireframes/Settings-Profile/Dietary Preferences.png" width="300"> | Important dietary restrictions / preference setting |
 | **Help and Support** | <img src="ux-design/wireframes/Settings-Profile/Help & Support.png" width="300"> | general help and contact area for frequently asked questions |
 | **Change Password** | <img src="ux-design/wireframes/Settings-Profile/Change Password Dialog.png" width="300"> | Secure page to change password of account |
+
+### Login & Signup
+| Screen Name | Wireframe | Description |
+|------------|-----------|-------------|
+| **Log in Page** | <img src="ux-design/wireframes/Log In.png" width="300"> | The Login Page used for user to track saved data and other informations. |
+| **Sign Up Page** | <img src="ux-design/wireframes/Sign Up.png" width="300"> | The Sign Up Page used for user to create a new account to save data and other informations. |
+
+### Analytics
+| Screen Name | Wireframe | Description |
+|------------|-----------|-------------|
+| **Trend Analysis Page** | <img src="ux-design/wireframes/Trend Analysis.png" width="300"> | Displays the most and least used food items in the fridge, helping users understand consumption patterns and optimize grocery shopping. |
+| **Shopping Recommendation Page** | <img src="ux-design/wireframes/Shopping Recommendation.png" width="300"> | Suggests essential grocery items and replenishment recommendations based on inventory levels and waste patterns, with direct links to online stores. |
+| **Waste Pattern Page** | <img src="ux-design/wireframes/Waste Pattern.png" width="300"> | Tracks food waste over a selected time period, providing insights into the most wasted food categories and estimated financial loss. |
+
