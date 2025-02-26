@@ -17,7 +17,10 @@ Following is the link to our Figma prototype. Please click on the blank space to
 - [wireframe (Local Figma file)](ux-design/wireframes/Smart-Refridgerator.fig)
 <br>Please be mindful that figma file will be updated ocassionaly - please check the web version for most recent version
 
-| Screen Name | Wireframe | Description |
-|------------|-----------|-------------|
-| **Home Screen** | <img src="ux-design/wireframes/Homepage.png" width="300"> | The main dashboard displaying key refrigerator stats, recommendation, and quick actions. |
+| Screen Name              | Wireframe                                                            | Description                                                                                        |
+|--------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| **Home Screen**          | <img src="ux-design/wireframes/Homepage.png" width="300">            | The main dashboard displaying key refrigerator stats, recommendation, and quick actions.           |
+| **Inventory Management** | <img src="ux-design/wireframes/Inventory Management.png" width="300> | The page that directs you to all refrigerator compartments and inventory management.               |
+| **Item Details**         | <img src="ux-design/wireframes/Item Details.png" width="300>         | The page that displays all the details for a selected item, and allows modifications and deletion. |
+| **Scan Items**           | <img src="ux-design/wireframes/Scan Items.png" width="300>           | The page that allows the user to add and scan new items to store in refrigerator inventory.        |
 
