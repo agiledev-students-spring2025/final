@@ -54,3 +54,14 @@ Following is the link to our Figma prototype. Please click on the blank space to
 | **Shopping Recommendation Page** | <img src="ux-design/wireframes/Fridge-Analytics/Shopping Recommendation.png" width="300"> | Suggests essential grocery items and replenishment recommendations based on inventory levels and waste patterns, with direct links to online stores. |
 | **Waste Pattern Page** | <img src="ux-design/wireframes/Fridge-Analytics/Waste Pattern.png" width="300"> | Tracks food waste over a selected time period, providing insights into the most wasted food categories and estimated financial loss. |
 
+### Recipe Suggestions
+| Screen Name | Wireframe | Description |
+|------------|-----------|-------------|
+| **Recipe Suggestions Page** | <img src="ux-design/wireframes/Recipe-Suggestions/Recipe Suggestions.png" width="300"> | Offers AI-generated recipe recommendations based on fridge inventory and dietary preferences. |
+| **AI-Recipe Suggestion Page** | <img src="ux-design/wireframes/Recipe-Suggestions/Browse AI-recipe Suggestion.png" width="300"> | Displays recommended recipes based on available ingredients and allows users to search or apply dietary filters. |
+| **Saved Recipe Page** | <img src="ux-design/wireframes/Recipe-Suggestions/Saved Recipes.png" width="300"> | Allows users to access and manage their favorite or frequently used recipes.|
+| **Recipe Details Page** | <img src="ux-design/wireframes/Recipe-Suggestions/Recipe Details.png" width="300"> | Provides step-by-step cooking instructions, ingredient lists, and cooking timers for a selected recipe. |
+| **Keto Recipe Page** | <img src="ux-design/wireframes/Recipe-Suggestions/Keto.png" width="300"> | Lists keto-friendly recipe suggestions tailored to users following a low-carb diet. |
+| **Vegan Recipe Page** | <img src="ux-design/wireframes/Recipe-Suggestions/Vegan.png" width="300"> | Displays plant-based meal suggestions for users following a vegan diet. |
+| **Vegetarian Recipe Page** | <img src="ux-design/wireframes/Recipe-Suggestions/Vegetarian.png" width="300"> | Shows vegetarian-friendly recipes filtered based on dietary restrictions. |
+| **Customize My Own Page** | <img src="ux-design/wireframes/Recipe-Suggestions/Customize my own.png" width="300"> | Enables users to create personalized recipe suggestions by selecting specific ingredients or dietary preferences.|
