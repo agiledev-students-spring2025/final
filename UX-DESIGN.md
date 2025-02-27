@@ -64,4 +64,4 @@ Following is the link to our Figma prototype. Please click on the blank space to
 | **Keto Recipe Page** | <img src="ux-design/wireframes/Recipe-Suggestions/Keto.png" width="300"> | Lists keto-friendly recipe suggestions tailored to users following a low-carb diet. |
 | **Vegan Recipe Page** | <img src="ux-design/wireframes/Recipe-Suggestions/Vegan.png" width="300"> | Displays plant-based meal suggestions for users following a vegan diet. |
 | **Vegetarian Recipe Page** | <img src="ux-design/wireframes/Recipe-Suggestions/Vegetarian.png" width="300"> | Shows vegetarian-friendly recipes filtered based on dietary restrictions. |
-| **Customize My Own Page** | <img src="ux-design/wireframes/Recipe-Suggestions/Customize my own.png" width="300"> | Enables users to create personalized recipe suggestions by selecting specific ingredients or dietary preferences.|
+| **Customize My Own Page** | <img src="ux-design/wireframes/Recipe-Suggestions/Customize my own.png" width="300"> | Enables users to create personalized recipe suggestions by selecting specific ingredients or dietary preferences. |
